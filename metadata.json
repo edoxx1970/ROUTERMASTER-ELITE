@@ -1,0 +1,9 @@
+{
+  "name": "ROUTEMASTER ELITE",
+  "description": "App per la gestione e ottimizzazione dei percorsi di consegna con input vocale e Google Maps.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
